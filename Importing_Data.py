@@ -8,7 +8,7 @@ db = create_engine(conn_string)
 conn = db.connect()
 
 # List of CSV Files
-files = ['artist', 'canvas_size', 'image_link', 'museum_hours', 'museum', 'product_size', 'subject', 'work']
+files = ['album', 'artist', 'customer', 'employee', 'genre', 'invoice', 'invoice_line', 'media_type', 'playlist', 'playlist_track', 'track']
 
 # Loop through each csv file and import to PostgreSQL
 for file in files:
