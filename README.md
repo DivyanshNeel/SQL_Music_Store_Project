@@ -11,13 +11,17 @@ This project will teach how to analyze the music playlist database. This analysi
 This project focuses on the analysis of the dataset of an online music store by using SQL. In order to make better decisions about the store's growth, the project will answer a set of questions regarding its performance.
 
 ## Key Learning Skills
-- Data Import Using **Python**
-> In python using **pandas** library and **create_engine** funtion from the SQLAlchemy library, I imported the *.csv* files into the database.
+- Data Import and Management Using **Python**
+I learned to import data using python into my database. I used visual code IDE where I leveraged the power of **pandas** library and **create_engine** funtion from the SQLAlchemy library to import the *.csv* files into the database.
 
 > [!TIP]
-> Click [HERE](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/Importing_Data.py) to get some help.
+> Click [HERE](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/Importing_Data.py) to get help importing data to your database.
 
-- Data
+- SQL Querying
+This project sharpened my SQL querying skills significantlly. I wrote various types of queries to retrieve specific information from the database based on the questions provided. This included simple SELECT statements, joins, aggregation functions, subqueries, and more complex operations.
+
+- Problem-Solving and Critical Thinking
+Finally, working through a list of questions provided for the project, it required problem-solving and critical thinking skills. I was encountered with scenarios where I had to interpret the questions, identify the relevant data, and formulate SQL queries to extract the required information effectively.
 
 ## Data Source
 Data was provided by @rishabhnmishra in his this repository
