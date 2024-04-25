@@ -8,7 +8,7 @@
 - [Conclusion](#Conclusion)
 
 ## Description
-This project will teach how to analyze the music playlist database. This analysis of the database with SQL will help the store to understand its business growth by answering some questions.
+This project will teach how to analyze the music playlist database. This analysis of the database with SQL will help the store to understand its business growth by answering some [QUESTIONS](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/Music_Store_Analysis_Questions.pdf).
 
 ## Project Background
 This project focuses on the analysis of the dataset of an online music store by using SQL. In order to make better decisions about the store's growth, the project will answer a set of questions regarding its performance.
@@ -37,5 +37,5 @@ Data was provided by [Rishabh Mishra](https://github.com/rishabhnmishra/SQL_Musi
 ![ERD Diagram](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/schema_diagram.png)
 
 ## Conclusion
-This Project was succesful in answering these [QUESTIONS](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/Music_Store_Analysis_Questions.pdf) the solutions to which you can check [HERE](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/PostgreSQL_query.sql)
+This Project was succesful in answering these [QUESTIONS](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/Music_Store_Analysis_Questions.pdf). You can check the solutions of the project [HERE](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/PostgreSQL_query.sql) which would help the music store to make informed decisions about there marketing, business growth and performance.
 
