@@ -19,5 +19,5 @@ for file in files:
 
 
 
-# REMEMBER TO INSTALL NECESSARY LIBRARIES FOR YOUR DATABASE SYSTEM - IN THIS CASE IT'S pandas, sqlalchemy AND psycopg2-binary *OR* psycopg2. FOR MY MySQL IT WILL BE pandas, sqlalchemy AND mysql-connector-python *OR* you can use pymysql.
+# REMEMBER TO INSTALL NECESSARY LIBRARIES FOR YOUR DATABASE SYSTEM - IN THIS CASE IT'S pandas, sqlalchemy AND psycopg2-binary *OR* psycopg2.
 # REMEMBER TO REPLACE {YOUR_INFORMATION} WITH YOUR ACTUAL CREDENTIALS
