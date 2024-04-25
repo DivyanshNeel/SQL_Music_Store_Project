@@ -15,7 +15,7 @@ This project focuses on the analysis of the dataset of an online music store by 
 > In python using **pandas** library and **create_engine** funtion from the SQLAlchemy library, I imported the *.csv* files into the database.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Helpful advice for doing things better or more easily. [HERE](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/Importing_Data.py)
 
 - Data
 
