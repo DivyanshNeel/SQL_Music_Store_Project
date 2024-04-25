@@ -5,6 +5,7 @@
 - [Tech Stack](#Tech-Stack)
 - [Key Learning Skills](#Key-Learning-Skills)
 - [Data Source](#Data-Source)
+- [Conclusion](#Conclusion)
 
 ## Description
 This project will teach how to analyze the music playlist database. This analysis of the database with SQL will help the store to understand its business growth by answering some questions.
@@ -35,4 +36,6 @@ Data was provided by [Rishabh Mishra](https://github.com/rishabhnmishra/SQL_Musi
 ## Schema Diagram
 ![ERD Diagram](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/schema_diagram.png)
 
+## Conclusion
+This Project was succesful in answering these [QUESTIONS](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/Music_Store_Analysis_Questions.pdf) the solutions to which you can check [HERE](https://github.com/DivyanshNeel/SQL_Music_Store_Project/blob/main/PostgreSQL_query.sql)
 
